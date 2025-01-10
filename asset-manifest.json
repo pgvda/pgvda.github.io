@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VRMS-front/static/css/main.b3aef143.css",
-    "main.js": "/VRMS-front/static/js/main.36723f4f.js",
-    "static/js/453.8ab44547.chunk.js": "/VRMS-front/static/js/453.8ab44547.chunk.js",
-    "static/media/sign4.png": "/VRMS-front/static/media/sign4.5f4037f43d50bcbe23c6.png",
-    "static/media/logo4.png": "/VRMS-front/static/media/logo4.fc7dca8375e9924dff7c.png",
-    "index.html": "/VRMS-front/index.html",
-    "main.b3aef143.css.map": "/VRMS-front/static/css/main.b3aef143.css.map",
-    "main.36723f4f.js.map": "/VRMS-front/static/js/main.36723f4f.js.map",
-    "453.8ab44547.chunk.js.map": "/VRMS-front/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/VRMS-front/src/index.js/static/css/main.0cbab5dd.css",
+    "main.js": "/VRMS-front/src/index.js/static/js/main.7a5743aa.js",
+    "static/js/453.8ab44547.chunk.js": "/VRMS-front/src/index.js/static/js/453.8ab44547.chunk.js",
+    "static/media/sign4.png": "/VRMS-front/src/index.js/static/media/sign4.5f4037f43d50bcbe23c6.png",
+    "static/media/logo4.png": "/VRMS-front/src/index.js/static/media/logo4.fc7dca8375e9924dff7c.png",
+    "index.html": "/VRMS-front/src/index.js/index.html",
+    "main.0cbab5dd.css.map": "/VRMS-front/src/index.js/static/css/main.0cbab5dd.css.map",
+    "main.7a5743aa.js.map": "/VRMS-front/src/index.js/static/js/main.7a5743aa.js.map",
+    "453.8ab44547.chunk.js.map": "/VRMS-front/src/index.js/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3aef143.css",
-    "static/js/main.36723f4f.js"
+    "static/css/main.0cbab5dd.css",
+    "static/js/main.7a5743aa.js"
   ]
 }
